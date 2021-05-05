@@ -7,11 +7,12 @@ permalink: pretty
 
 #Add navigation bar
 pages_list:
-  Home: ''
+  Home: '/home'
   About: '/about'
   Research: '/research'
   Publications: '/publications'
   CV: '/cv'
+  Archive: '/archive'
 
 # Gems
 plugins:
