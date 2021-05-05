@@ -1,4 +1,4 @@
 ---
 permalink: /docs/research/
 ---
-My research is about ![this](/images/chippindale2001fig.jpg)
+My research is about [this](/images/chippindale2001fig.jpg)
