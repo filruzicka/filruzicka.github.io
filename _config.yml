@@ -1,10 +1,15 @@
 # Setup
 title: Filip Ruzicka
 tagline: Evolutionary genetics
-url: https://getpoole.com
 paginate: 1
 baseurl: ""
 permalink: pretty
+
+#Add navigation bar
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: 'atom.xml'
 
 # Gems
 plugins:
@@ -33,9 +38,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Filip Ruzicka
+  email: filip_ruzicka@hotmail.fr
 
 # Custom vars
 version: 3.0.0
