@@ -12,7 +12,7 @@ pages_list:
   Research: '/research'
   Publications: '/publications'
   CV: '/cv'
-  Archive: '/archive'
+  News: '/archive'
 
 # Gems
 plugins:
