@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Filip Ruzicka
 description: Evolutionary genetics
+
+docs:
+
+- title: Contact
+url: contact.html
+
+-title: Research
+url: research.html
