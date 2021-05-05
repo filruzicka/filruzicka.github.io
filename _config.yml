@@ -7,9 +7,11 @@ permalink: pretty
 
 #Add navigation bar
 pages_list:
-  About: '/about'
-  Archive: '/archive'
-  Feed: 'atom.xml'
+  Home: '/home'
+  Contact: '/contact'
+  Research: '/research'
+  Publications: '/publications'
+  CV: '/cv'
 
 # Gems
 plugins:
