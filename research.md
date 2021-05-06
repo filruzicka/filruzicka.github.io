@@ -3,7 +3,6 @@ layout: page
 title: Research
 ---
 
-## research
 
 A few sentences about my research. 
 
