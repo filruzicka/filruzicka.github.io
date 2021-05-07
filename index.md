@@ -21,7 +21,8 @@ This is a list which links to subsetctions of the page:
 This is a bit of **bash** code:
 
 ```bash
-One begins to get the feeling that population geneticsts have been laboring over the wrong thing
+One begins to get the feeling that population geneticsts have been
+laboring over the wrong thing
 ```
 Allen Orr, *Genetica* (2005)
 
