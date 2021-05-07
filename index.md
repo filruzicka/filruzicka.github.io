@@ -21,10 +21,9 @@ This is a list which links to subsetctions of the page:
 This is a bit of **bash** code:
 
 ```bash
-One begins to get the feeling that population geneticsts have been
-laboring over the wrong thing
+One begins to get the feeling that population geneticsts have been laboring 
+over the wrong thing (Allen Orr, <i>Genetica</i>, 2005)
 ```
-Allen Orr, *Genetica* (2005)
 
 This sentence includes words in a `different` format
 
