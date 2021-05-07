@@ -10,8 +10,8 @@ pages_list:
   Home: '/'
   About: '/about'
   Research: '/research'
+  Projects: '/projects'
   Publications: '/publications'
-  Posts: '/posts'
 
 # Gems
 plugins:
