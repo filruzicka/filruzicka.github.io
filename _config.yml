@@ -11,7 +11,7 @@ pages_list:
   About: '/about'
   Research: '/research'
   Publications: '/publications'
-  News: '/news'
+  Posts: '/posts'
 
 # Gems
 plugins:
