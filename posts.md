@@ -1,9 +1,7 @@
 ---
 layout: default
-title: News
+title: Posts
 ---
-
-# News
 
 Browse all news posts by month and year.
 
