@@ -32,6 +32,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+slideShow:
+- /assets/DTP_photo.jpg
+- /assets/DTP_photo_small.png
+
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking

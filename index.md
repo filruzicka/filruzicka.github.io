@@ -2,3 +2,5 @@
 
 -----
 
+
+{% include slideShow.html images=page.slideShow %}
