@@ -3,9 +3,9 @@ layout: page
 title: Publications & Code
 ---
 
-Here you can find a list of published and forthcoming work, including links to papers and relevant code. 
+Here you can find my published work, including links to papers and relevant code. 
 
-For an up-to-date version of my publications, please visit my [google scholar](https://scholar.google.com.au/citations?user=bbgrwCEAAAAJ&hl=en&oi=ao) page.
+For the most up-to-date record of my publications, please visit my [google scholar](https://scholar.google.com.au/citations?user=bbgrwCEAAAAJ&hl=en&oi=ao) page.
 
 -----
 
