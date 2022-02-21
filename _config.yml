@@ -11,6 +11,8 @@ pages_list:
   Bio: '/bio'
   Research: '/research'
   Publications & Code: '/publications'
+  Contact: '/contact'
+
 
 # Gems
 plugins:
