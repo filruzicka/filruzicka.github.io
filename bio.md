@@ -10,6 +10,6 @@ I'm an evolutionary biologist interested in testing fundamental theories about a
 
 ## CV
 
-Here's a link to my [CV](/assets/Filip_Ruzicka_CV.pdf) (last updated Jan 2022). 
+Here's a link to my [CV](/assets/Filip_Ruzicka_CV.pdf) *(last updated Jan 2022)*. 
 
 
