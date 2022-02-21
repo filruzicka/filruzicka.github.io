@@ -9,7 +9,7 @@ over the wrong thing (Allen Orr, 2005)
 
 ## Research programme
 
-Adaptation is a key motivating interest for evolutionary biologists. Some organisms—like humans—are diploid, outcrossing, and sexual, while others—like many plants—are haploid, self-fertilising, and asexual. Why? What is the genetic basis of these and other adaptations? Is adaptation easy and rapid, or is it limited by the amount of genetic variation? Despite much interest in these research questions, answers remain elusive because most genetic variation is non-adaptive (i.e., it is deleterious or neutral) and because estimates of fitness are hard to come by. As a result, we have been unable to test many fundamental and long-standing theories about adaptation.
+Adaptation is a key motivating interest for evolutionary biologists. Some organisms—like humans—are diploid, outcrossing, and sexual, while others—like many plants—are haploid, self-fertilising, and asexual. Why? What is the genetic basis of these and other adaptations? Is adaptation easy and rapid, or is it limited by the amount of genetic variation? Despite a century-old tradition of theoretical models of evolution and adaptation, empirical tests of such models remain challenging because most genetic variation is non-adaptive (i.e., it is deleterious or neutral) and because estimates of fitness are hard to come by. In short: answers to fundamental and long-standing questions about adaptation remain elusive.
 
 ![Pic](/assets/Sexualantagonismimage.png)
 
