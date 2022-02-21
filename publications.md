@@ -4,7 +4,6 @@ title: Publications & Code
 ---
 
 Here you can find my published and forthcoming papers, including PDFs and relevant code from my [github](https://github.com/filipluca) page. For the most up-to-date record of my publications, please visit my [google scholar](https://scholar.google.com.au/citations?user=bbgrwCEAAAAJ&hl=en&oi=ao) page. 
------
 
 *(last updated Feb 2022)*
 
