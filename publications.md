@@ -12,9 +12,9 @@ Here you can find my published and forthcoming papers, including PDFs and releva
 
 ## 2021 
 
-**Ruzicka, F.**, Holman, L., Connallon, T. Polygenic signals of sexually antagonistic selection in contemporary human genomes. *bioRxiv* - [PDF](doi.org/10.1101/2021.09.20.461171) - [code](https://github.com/filipluca/Polygenic_SA_selection_in_the_UK_Biobank/)
+**Ruzicka, F.**, Holman, L., Connallon, T. Polygenic signals of sexually antagonistic selection in contemporary human genomes. *bioRxiv* - [PDF](http://biorxiv.org/lookup/doi/10.1101/2021.09.20.461171) - [code](https://github.com/filipluca/Polygenic_SA_selection_in_the_UK_Biobank/)
 
-**Ruzicka, F.**, Connallon. T, Reuter, M. Sex differences in deleterious mutational effects in *Drosophila melanogaster*: combining quantitative and population genetic insights. *Genetics* 219:iyab143 - [PDF](/assets/Ruzickaetal2021Genetics.pdf) - [code](https://github.com/filipluca/GWAS_sex_specific_fitness_and_the_X_chromosome)
+**Ruzicka, F.**, Connallon, T., Reuter, M. Sex differences in deleterious mutational effects in *Drosophila melanogaster*: combining quantitative and population genetic insights. *Genetics* 219:iyab143 - [PDF](/assets/Ruzickaetal2021Genetics.pdf) - [code](https://github.com/filipluca/GWAS_sex_specific_fitness_and_the_X_chromosome)
 
 Jardine, M., **Ruzicka, F.**, Diffley, C., Fowler, K., Reuter, M. A non-coding indel polymorphism in the fruitless gene of Drosophila melanogaster exhibits antagonistically pleiotropic effects. *Proc. R. Soc. B.* 288:20202958 - [PDF](/assets/Jardineetal2021ProcB.pdf)
 
