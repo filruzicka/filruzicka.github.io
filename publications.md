@@ -22,7 +22,7 @@ Jardine, M., **Ruzicka, F.**, Diffley, C., Fowler, K., Reuter, M. A non-coding i
 
 ## 2020
 
-**Ruzicka, F.**\*, Connallon, T.\*. Is the X chromosome a hot spot for sexually antagonistic polymorphisms? Biases in current empirical tests of classical theory. *Proc. R. Soc. B.* 287:20201869. [PDF](/assets/RuzickaConnallon2020ProcB.pdf)
+**Ruzicka, F.**\*, Connallon, T.\* Is the X chromosome a hot spot for sexually antagonistic polymorphisms? Biases in current empirical tests of classical theory. *Proc. R. Soc. B.* 287:20201869. [PDF](/assets/RuzickaConnallon2020ProcB.pdf)
 
 **Ruzicka, F.**\*, Dutoit, L.\*, Czuppon, P., Jordan, C.Y., Li, X-Y, Olito, C., Runemark, A., Svensson, E.I., Yazdi, H.P., Connallon, T. The search for sexually antagonistic genes: Practical insights from studies of local adaptation and statistical genomics. *Evol. Lett.* 4:398-415. - [PDF](/assets/Ruzickaetal2020EvolLett.pdf) 
 
