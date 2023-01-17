@@ -3,7 +3,7 @@ layout: page
 ---
 
 ```bash
-"The history of population genetics [...] presents a paradox. Although population genetics arose from the fusion of Darwin's theory of adaptation by natural selection with Mendel's theory of inheritance, the field has been concerned historically far more with deleterious and, later, with neutral mutations than with beneficial ones. The paradox has, of course, a simple solution: population geneticists were looking under the lamp post. (Allen Orr, 2010)"
+The history of population genetics presents a paradox. Although population genetics arose from the fusion of Darwin's theory of adaptation by natural selection with Mendel's theory of inheritance, the field has been concerned historically far more with deleterious and, later, with neutral mutations than with beneficial ones. The paradox has, of course, a simple solution: population geneticists were looking under the lamp post. (Allen Orr, 2010)
 ```
 
 ## Research overview
