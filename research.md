@@ -3,28 +3,27 @@ layout: page
 ---
 
 ```bash
-The history of population genetics [...] presents a paradox. Although 
+The history of population genetics presents a paradox. Although 
 population genetics arose from the fusion of Darwins theory of 
 adaptation by natural selection with Mendels theory of inheritance, 
 the field has been concerned historically far more with deleterious 
-and, later, with neutral mutations than with beneficial ones.
+and, later, neutral mutations than with beneficial ones.
  
-The paradox has, of course, a simple solution: 
+The paradox has a simple solution: 
 population geneticists were looking under the lamp post. 
-(Allen Orr, 2010)
+
+Allen Orr
 ```
 
 ## Research overview
 
-My main research interest is to understand why organisms adapt to their environments in such diverse and remarkable ways.
+My main research goal is to understand why organisms adapt to their environments in such diverse and remarkable ways.
 
-Unfortunately, evolutionary biologists have a problem: most adaptation has occurred in the past, and most ongoing adaptation takes longer than a human lifetime to observe. As a result, answers to fundamental and long-standing questions about adaptation--why do some organisms have sex? why do some outcross and others self-fertilise? why are some haploid and others diploid? what genes underlie such adaptations? does adaptation rely on standing variation or new mutations?--remain elusive. 
+Unfortunately, most evolution has occurred in the past, and most current evolution takes longer than a lifetime to observe. As a result, answers to long-standing questions about adaptation -- why do some organisms have sex? why do some outcross and others self-fertilise? why are some haploid and others diploid? what genes underlie such adaptations? does adaptation rely on standing variation or new mutations? -- remain elusive. 
 
-Fortunately, evolutionary biologists have tools to overcome this: a century-old tradition of theoretical models of evolution and adaptation, increasing access to genome-scale data on adaptive variation, and experimental model organisms to observe and manipulate evolution in real-time. 
+Fortunately, we have the tools to overcome this: a century of mathematical models of evolution, access to genome-scale data on genetic variation, and experimental organisms where we can manipulate evolution in real-time. 
 
 My research uses these diverse tools to help answer these fundamental questions about adaptation.
-
-![Pic](/assets/Sexualantagonismimage.png)
 
 To date, I have particularly focussed on the following research areas: 
 

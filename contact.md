@@ -2,12 +2,12 @@
 layout: page
 ---
 
-*(last updated Sept 2022)*
+*(last updated Dec 2023)*
 
-![Pic](/assets/SchoolofBiologicalSciences.png)
+![Pic](/assets/Central_Building.jpeg)
 
-You can find me in the School of Biological Sciences, ground floor (G26), 18 Innovation Walk, Monash University. 
+You can find me at the Institute of Science and Technology Austria (ISTA), first floor, Am Campus 1, 3400 Klosterneuburg. 
 
-My current email address is filip.ruzicka[at]monash.edu. If that doesn't work, I can be reached at ruzicka.filip[at]gmail.com. 
+My work address is filip.ruzicka[at]ista.ac.at. Otherwise, I can be reached at ruzicka.filip[at]gmail.com. 
 
 
