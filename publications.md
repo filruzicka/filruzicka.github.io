@@ -4,7 +4,7 @@ layout: page
 
 *(last updated Dec 2023)*
 
-Publication list, including PDFs and relevant code from my [github](https://github.com/filipluca) page. For the most up-to-date record of my publications, please visit my [google scholar](https://scholar.google.com.au/citations?user=bbgrwCEAAAAJ&hl=en&oi=ao) page. 
+Publication list, including PDFs and relevant code from my [github](https://github.com/filipluca) page. For the most up-to-date record of my publications, please visit my [google scholar](https://scholar.google.com.au/citations?hl=en&pli=1&user=NoQGfugAAAAJ) page. 
 
 ## 2022
 
