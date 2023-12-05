@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Research overview
+### Research overview
 
 My main goal is to understand why organisms adapt to their environments in such diverse and remarkable ways.
 
