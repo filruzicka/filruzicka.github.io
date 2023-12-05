@@ -2,8 +2,6 @@
 layout: page
 ---
 
-### Research overview
-
 My main goal is to understand why organisms adapt to their environments in such diverse and remarkable ways.
 
 Unfortunately, achieving this goal is problematic: most evolution has occurred in the past, and ongoing evolution typically takes longer than a human lifetime to observe. Therefore, answers to very basic questions -- why do some organisms have sex? why do some outcross and others self-fertilise? why are some haploid and others diploid? does adaptation rely on existing variation or new mutations? -- remain elusive. 
@@ -21,6 +19,4 @@ Sex chromosomes provide a unique opportunity to study evolution because of their
 
 ### Linking formal theory with data
 In evolutionary biology, the connections between theory and data are often loose (e.g., empiricists often rely on verbal models; theoreticians do not always generate empirically testable models; see Haller et al. 2014 and Fitzpatrick et al. 2018, *BioScience*). A key signature of my research is close integration of formal mathematical models with data analyses. For example, I helped develop models for metrics of genetic variation on autosomes and the X chromosome, and applied these metrics to human and fruit fly genomic datasets ([Ruzicka et al. 2021](/assets/Ruzickaetal2021Genetics.pdf), [Ruzicka and Connallon 2022](/assets/RuzickaandConnallon2020ProcB.pdf)). 
-
-
 
