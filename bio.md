@@ -5,7 +5,7 @@ layout: page
 
 -----
 
-![Pic](/assets/Timeline.pdf)
+![Pic](/assets/Timeline.png)
 
 -----
 
