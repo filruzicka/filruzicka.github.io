@@ -8,7 +8,7 @@ For the most up-to-date record of my publications, please visit my [google schol
 
 -----
 
-**Ruzicka, F.**, Zwoinska, M.K., Goedert, D., Kokko, H., Li Richter X-Y., Moodie, I.R., Nilén, S., Olito, C., Svensson, E.I., Czuppon, P., Connallon, T. A century of theories of balancing selection. (2025) *bioRxiv** - [PDF](/assets/Ruzickaetal2025bioRxiv.pdf)
+**Ruzicka, F.**, Zwoinska, M.K., Goedert, D., Kokko, H., Li Richter X-Y., Moodie, I.R., Nilén, S., Olito, C., Svensson, E.I., Czuppon, P., Connallon, T. A century of theories of balancing selection. (2025) *bioRxiv* - [PDF](/assets/Ruzickaetal2025bioRxiv.pdf)
 
 Connallon, T., Czuppon, P., Olito, C., Goedert, D., Kokko, H, Nava-Bolaños, A., Nilén, S., Svensson, E.I., Zwoinska, M.K., Dutoit, L., **Ruzicka, F**. Predicting the prevalence of genetic trade-offs among adaptive substitutions. (2025) *Evolution* 24:qpaf061 - [PDF](/assets/Connallonetal2025Evolution.pdf)
 
