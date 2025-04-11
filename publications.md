@@ -2,11 +2,17 @@
 layout: page
 ---
 
-*(last updated Dec 2023)*
+*(last updated Apr 2025)* 
 
-Publication list, including PDFs and relevant code from my [github](https://github.com/filipluca) page. For the most up-to-date record of my publications, please visit my [google scholar](https://scholar.google.com.au/citations?hl=en&pli=1&user=NoQGfugAAAAJ) page. 
+For the most up-to-date record of my publications, please visit my [google scholar](https://scholar.google.com.au/citations?hl=en&pli=1&user=NoQGfugAAAAJ) page. 
 
-## 2022
+
+
+**Ruzicka, F.**, Zwoinska, M.K., Goedert, D., Kokko, H., Li Richter X-Y., Moodie, I.R., Nilén, S., Olito, C., Svensson, E.I., Czuppon, P., Connallon, T. A century of theories of balancing selection. bioRxiv [PDF](/assets/Ruzickaetal2025bioRxiv.pdf)
+
+Connallon, T., Czuppon, P., Olito, C., Goedert, D., Kokko, H, Nava-Bolaños, A., Nilén, S., Svensson, E.I., Zwoinska, M.K., Dutoit, L., **Ruzicka, F**. Predicting the prevalence of genetic trade-offs among adaptive substitutions. *Evolution* 24:qpaf061 [PDF](/assets/Connallonetal2025Evolution.pdf)
+
+McDonough, Y., **Ruzicka, F.**, Connallon, T. Reconciling theories of dominance with the relative rates of adaptive substitution on sex chromosomes and autosomes. *Proceedings of the National Academy of Sciences U.S.A.* 121(44): e2406335121 - [PDF](/assets/McDonoughetal2024PNAS.pdf)
 
 **Ruzicka, F.**, Holman, L., Connallon, T. Polygenic signals of sex differences in selection in humans from the UK Biobank. *PLOS Biology*, 20:e3001768. [PDF](/assets/Ruzickaetal2022PlosBiol.pdf) - [code](https://github.com/filipluca/Polygenic_SA_selection_in_the_UK_Biobank/)
 
@@ -16,23 +22,15 @@ Connallon, T., Beasley, I.J., McDonough, Y., **Ruzicka, F**. How much does the u
 
 **Ruzicka, F.**, Connallon, T. An unbiased test reveals no enrichment of sexually antagonistic polymorphisms on the human X chromosome. *Proc. R. Soc. B.* 289:20212314. - [PDF](/assets/RuzickaConnallon2022ProcB.pdf) - [code](https://github.com/filipluca/Polygenic_SA_selection_X_vs_A/)  
 
-## 2021 
-
 **Ruzicka, F.**, Connallon, T., Reuter, M. Sex differences in deleterious mutational effects in *Drosophila melanogaster*: combining quantitative and population genetic insights. *Genetics* 219:iyab143 - [PDF](/assets/Ruzickaetal2021Genetics.pdf) - [code](https://github.com/filipluca/GWAS_sex_specific_fitness_and_the_X_chromosome)
 
 Jardine, M., **Ruzicka, F.**, Diffley, C., Fowler, K., Reuter, M. A non-coding indel polymorphism in the fruitless gene of *Drosophila melanogaster* exhibits antagonistically pleiotropic effects. *Proc. R. Soc. B.* 288:20202958 - [PDF](/assets/Jardineetal2021ProcB.pdf)
-
-## 2020
 
 **Ruzicka, F.**\*, Connallon, T.\* Is the X chromosome a hot spot for sexually antagonistic polymorphisms? Biases in current empirical tests of classical theory. *Proc. R. Soc. B.* 287:20201869. [PDF](/assets/RuzickaConnallon2020ProcB.pdf)
 
 **Ruzicka, F.**\*, Dutoit, L.\*, Czuppon, P., Jordan, C.Y., Li, X-Y, Olito, C., Runemark, A., Svensson, E.I., Yazdi, H.P., Connallon, T. The search for sexually antagonistic genes: Practical insights from studies of local adaptation and statistical genomics. *Evol. Lett.* 4:398-415. - [PDF](/assets/Ruzickaetal2020EvolLett.pdf) 
 
-## 2019
-
 **Ruzicka, F.**\*, Hill, M.S.\*, Pennell, T.M.\*, Flis, I., Ingleby, F.C., Mott, R., Fowler, K., Morrow, E.H., Reuter, M. Genome-wide sexually antagonistic variants reveal long-standing constraints on sexual dimorphism in fruit flies. *PLOS Biol.* 17(4) e3000244. - [PDF](/assets/Ruzickaetal2019PlosBiol.pdf) - [code](https://github.com/filipluca/SA_GWAS/) 
-
-## 2018 and earlier
 
 Connallon, T., Olito, C., Dutoit, L., Papoli, H., **Ruzicka, F.**, Yong, L. (2018). Local adaptation and the evolution of inversions on sex chromosomes and autosomes. *Phil. Trans. R. Soc. B.* 373: 20170423. - [PDF](/assets/Connallonetal2018PhilTrans.pdf)
 
