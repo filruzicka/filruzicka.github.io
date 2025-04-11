@@ -2,7 +2,7 @@
 layout: page
 ---
 
-My goal is to understand why organisms have adapted to their environments in such remarkably diverse ways. Unfortunately, achieving this goal is difficult: most evolution has occurred in the past, and ongoing evolution typically takes longer than a human lifetime to observe. Therefore, answers to very basic questions -- why do some organisms have sex? why do some outcross and others self-fertilise? why are some haploid and others diploid? does adaptation rely on pre-existing variation or new mutations? -- remain elusive. Fortunately, we now have tools to overcome this: a century of mathematical models of evolution, allied with new genomic datasets and experimental systems where we can manipulate and observe evolution. My research uses these tools to uncover principles of evolutionary adaptation. 
+My goal is to understand why organisms have adapted to their environments in such remarkably diverse ways. Unfortunately, achieving this goal is difficult: most evolution has occurred in the past, and ongoing evolution typically takes longer than a human lifetime to observe. Therefore, answers to very basic questions -- why do some organisms have sex? why do some outcross and others self-fertilise? why are some haploid and others diploid? does adaptation rely on pre-existing variation or new mutations? -- remain elusive. Fortunately, we now have tools to overcome this: a century of mathematical models of evolution, allied with new genomic datasets and experimental systems where we can manipulate and observe evolution. My research uses these tools to investigate principles of evolutionary adaptation. 
 
 -----
 
