@@ -8,9 +8,10 @@ permalink: pretty
 #Add navigation bar
 pages_list:
   Home: '/'
-  Bio: '/bio'
+  Bio & CV: '/bio'
   Research: '/research'
   Publications & Code: '/publications'
+  Leadership & Teaching: '/service'
   Contact: '/contact'
 
 
