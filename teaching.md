@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-#### Population genetics: the basics (PhD course)
+### Population genetics: the basics (PhD course)
 
 Teaching assistant (2024-25), *Institute of Science and Technology Austria*
 
