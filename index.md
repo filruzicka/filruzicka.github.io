@@ -1,6 +1,6 @@
 ![Pic](/assets/DTP_photo_small.png)
 
-I am an evolutionary biologist and independent research fellow at the Institute of Science and Technology Austria, in Vienna. 
+I am an evolutionary biologist and independent research fellow at the Institute of Science and Technology Austria. 
 
 I aim to make evolutionary theory and data happy bedfellows.
 
