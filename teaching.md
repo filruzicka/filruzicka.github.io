@@ -3,9 +3,6 @@ layout: page
 ---
 
 
-### Teaching
-
-
 #### Population genetics: the basics (PhD course)
 
 Teaching assistant (2024-25), *Institute of Science and Technology Austria*
@@ -37,28 +34,20 @@ Teaching assistant (2015-18), *University College London*
 
 ### Leadership
 
-#### "Evolunch" seminar series
-
-Co-organiser (2024-), *Institute of Science and Technology Austria*
-
-#### “Genetics and Evolution of Sex Differences” Symposium
-
-Co-organiser (2022–23), *Society for Molecular Biology & Evolution*
-
 #### Seminar series
 
-Co-organiser (2020-21), *Monash School of Biological Sciences*
+Co-organiser (2024-), "Evolunch" seminar series, *Institute of Science and Technology Austria*
 
-#### ECR Representative
+Co-organiser (2020-21), School of Biological Sciences seminar series, *Monash School of Biological Sciences* 
 
-2019-21, *Monash School of Biological Sciences*
+Co-organiser (2016-18), Friday Seminars for Young Researchers, *UCL Department of Genetics Evolution & Environment*
 
-#### Friday Seminars for Young Researchers
+#### Symposia 
 
-Co-organiser (2016-18), *UCL Department of Genetics Evolution & Environment*
+Co-organiser (2022–23), “Genetics and Evolution of Sex Differences” symposium, *Society for Molecular Biology & Evolution*
 
-####  “War & Peace: The Dynamics of Evolutionary Conflict” Symposium
+Co-organiser (2016), “War & Peace: The Dynamics of Evolutionary Conflict” symposium, *London Centre for Ecology & Evolution*
 
-Co-organiser (2016), *London Centre for Ecology & Evolution*
+
 
 
