@@ -8,11 +8,11 @@ For the most up-to-date record of my publications, please visit my [google schol
 
 -----
 
-**Ruzicka, F.**, Zwoinska, M.K., Goedert, D., Kokko, H., Li Richter X-Y., Moodie, I.R., Nilén, S., Olito, C., Svensson, E.I., Czuppon, P., Connallon, T. A century of theories of balancing selection. (2025) *bioRxiv* - [PDF](/assets/Ruzickaetal2025bioRxiv.pdf)
+**Ruzicka, F.**\*, Zwoinska, M.K.\*, Goedert, D., Kokko, H., Li Richter X-Y., Moodie, I.R., Nilén, S., Olito, C., Svensson, E.I., Czuppon, P., Connallon, T. A century of theories of balancing selection. (2025) *bioRxiv* [PDF](/assets/Ruzickaetal2025bioRxiv.pdf)
 
-Connallon, T., Czuppon, P., Olito, C., Goedert, D., Kokko, H, Nava-Bolaños, A., Nilén, S., Svensson, E.I., Zwoinska, M.K., Dutoit, L., **Ruzicka, F**. Predicting the prevalence of genetic trade-offs among adaptive substitutions. (2025) *Evolution* 24:qpaf061 - [PDF](/assets/Connallonetal2025Evolution.pdf)
+Connallon, T., Czuppon, P., Olito, C., Goedert, D., Kokko, H, Nava-Bolaños, A., Nilén, S., Svensson, E.I., Zwoinska, M.K., Dutoit, L.\*, **Ruzicka, F**\*. Predicting the prevalence of genetic trade-offs among adaptive substitutions. (2025) *Evolution* 24:qpaf061 [PDF](/assets/Connallonetal2025Evolution.pdf)
 
-McDonough, Y., **Ruzicka, F.**, Connallon, T. Reconciling theories of dominance with the relative rates of adaptive substitution on sex chromosomes and autosomes. (2024) *Proceedings of the National Academy of Sciences U.S.A.*  121(44): e2406335121 - [PDF](/assets/McDonoughetal2024PNAS.pdf)
+McDonough, Y., **Ruzicka, F.**, Connallon, T. Reconciling theories of dominance with the relative rates of adaptive substitution on sex chromosomes and autosomes. (2024) *Proceedings of the National Academy of Sciences U.S.A.*  121(44): e2406335121 [PDF](/assets/McDonoughetal2024PNAS.pdf)
 
 **Ruzicka, F.**, Holman, L., Connallon, T. Polygenic signals of sex differences in selection in humans from the UK Biobank. (2022) *PLOS Biology*, 20:e3001768. [PDF](/assets/Ruzickaetal2022PlosBiol.pdf) - [code](https://github.com/filipluca/Polygenic_SA_selection_in_the_UK_Biobank/)
 
