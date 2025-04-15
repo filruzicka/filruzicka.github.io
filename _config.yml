@@ -10,8 +10,8 @@ pages_list:
   Home: '/'
   Bio: '/bio'
   Research: '/research'
-  Publications: '/publications'
   Teaching: '/teaching'
+  Publications: '/publications'
   Contact: '/contact'
 
 
