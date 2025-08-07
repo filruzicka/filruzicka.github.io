@@ -1,4 +1,6 @@
---- layout: page ---
+---
+layout: page
+---
 
 I aim to understand why organisms have adapted to their environments in
 such remarkably diverse ways. Unfortunately, achieving this goal is
