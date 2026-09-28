@@ -1,14 +1,18 @@
 ---
 layout: page
----
-
-*(last updated Apr 2025)* 
+--- 
 
 For the most up-to-date record of my publications, please visit my [google scholar](https://scholar.google.com.au/citations?hl=en&pli=1&user=NoQGfugAAAAJ) page. 
 
 -----
 
-**Ruzicka, F.**\*, Zwoinska, M.K.\*, Goedert, D., Kokko, H., Li Richter X-Y., Moodie, I.R., Nilén, S., Olito, C., Svensson, E.I., Czuppon, P., Connallon, T. A century of theories of balancing selection. (2025) *bioRxiv* [PDF](/assets/Ruzickaetal2025bioRxiv.pdf)
+**Ruzicka, F.**, Vicoso, B. (2026). Is faster-X adaptation due to large-effect mutations? An empirical test of a new theory. *bioRxiv* [PDF](/assets/RuzickaVicoso2026bioRxiv.pdf) - [code](https://github.com/filipluca/FasterX_and_mutation_size/)
+
+Mackintosh, C., Connallon, T., **Ruzicka, F.** (2026). The evolution of context-specific dominance during selective sweeps. *bioRxiv* [PDF](/assets/Mackintoshetal2026bioRxiv.pdf)
+
+**Ruzicka, F.** (2026). Reverse genetics of sexual antagonism. *Nature Ecology & Evolution (News & Views)* 10:1035–1036 [PDF](/assets/Ruzicka2026NEE.pdf)  
+
+**Ruzicka, F.**\*, Zwoinska, M.K.\*, Goedert, D., Kokko, H., Li Richter X-Y., Moodie, I.R., Nilén, S., Olito, C., Svensson, E.I., Czuppon, P., Connallon, T. A century of theories of balancing selection. (2025) *Biological Reviews* 101(2):804-825 [PDF](/assets/Ruzickaetal2025BiolRev.pdf)
 
 Connallon, T., Czuppon, P., Olito, C., Goedert, D., Kokko, H, Nava-Bolaños, A., Nilén, S., Svensson, E.I., Zwoinska, M.K., Dutoit, L.\*, **Ruzicka, F**\*. Predicting the prevalence of genetic trade-offs among adaptive substitutions. (2025) *Evolution* 24:qpaf061 [PDF](/assets/Connallonetal2025Evolution.pdf)
 
@@ -20,7 +24,7 @@ McDonough, Y., **Ruzicka, F.**, Connallon, T. Reconciling theories of dominance 
 
 Connallon, T., Beasley, I.J., McDonough, Y., **Ruzicka, F**. How much does the unguarded X contribute to sex differences in lifespan? (2022) *Evolution Letters* 6:319–329. [PDF](/assets/Connallonetal2022EvolLett.pdf)
 
-**Ruzicka, F.**, Connallon, T. An unbiased test reveals no enrichment of sexually antagonistic polymorphisms on the human X chromosome. (2022) *Proc. R. Soc. B.* 289:20212314. - [PDF](/assets/RuzickaConnallon2022ProcB.pdf) - [code](https://github.com/filipluca/Polygenic_SA_selection_X_vs_A/)  
+**Ruzicka, F.**, Connallon, T. An unbiased test reveals no enrichment of sexually antagonistic polymorphisms on the human X chromosome. (2022) *Proc. R. Soc. B.* 289:20212314. - [PDF](/assets/RuzickaConnallon2022ProcB.pdf)   
 
 **Ruzicka, F.**, Connallon, T., Reuter, M. Sex differences in deleterious mutational effects in *Drosophila melanogaster*: combining quantitative and population genetic insights. (2021) *Genetics* 219:iyab143 - [PDF](/assets/Ruzickaetal2021Genetics.pdf) - [code](https://github.com/filipluca/GWAS_sex_specific_fitness_and_the_X_chromosome)
 
