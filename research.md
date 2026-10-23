@@ -45,7 +45,7 @@ adaptive mutations, provided such mutations have sufficiently large effects ([Mc
 2024](/assets/McDonoughetal2024PNAS.pdf)). Our
 recent work uses the ranking of mutations by the magnitudes of their
 effects on proteins to test the theoretical prediction that faster-X
-divergence becomes more likely for large-effect mutations ([Ruzicka & Vicoso 2026](/assets/RuzickaVicoso2026bioRxiv.pdf)). We have also examined how readily genetic dominance can evolve during selective sweeps ([Mackintosh et al. 2026](/assets/Mackintoshetal2026bioRxiv.pdf)). 
+divergence becomes more likely for large-effect mutations ([Ruzicka & Vicoso 2026](/assets/RuzickaVicoso2026GBE.pdf)). We have also examined how readily genetic dominance can evolve during selective sweeps ([Mackintosh et al. 2026](/assets/Mackintoshetal2026bioRxiv.pdf)). 
 
 ### The evolution of sex chromosomes
 Sex chromosomes provide a unique opportunity to study evolution because
@@ -53,8 +53,8 @@ of their asymmetric transmission between the sexes. Using contrasts of X
 chromosomes and autosomes, we have examined sex differences in the fitness effects of deleterious
 mutations ([Ruzicka et al. 2021](/assets/Ruzickaetal2021Genetics.pdf)),
 the genomic distribution of sexually antagonistic variation ([Ruzicka
-and Connallon 2020](/assets/RuzickaandConnallon2020ProcB.pdf), [Ruzicka
-and Connallon 2022](/assets/RuzickaandConnallon2022ProcB.pdf)) and the
+and Connallon 2020](/assets/RuzickaConnallon2020ProcB.pdf), [Ruzicka
+and Connallon 2022](/assets/RuzickaConnallon2022ProcB.pdf)) and the
 genomic distribution of inversions that capture locally-adaptive alleles
 ([Connallon et al. 2018](/assets/Connallonetal2018PhilTrans.pdf)).
 

@@ -6,7 +6,7 @@ For the most up-to-date record of my publications, please visit my [google schol
 
 -----
 
-**Ruzicka, F.**, Vicoso, B. (2026). Is faster-X adaptation due to large-effect mutations? An empirical test of a new theory. *bioRxiv* [PDF](/assets/RuzickaVicoso2026bioRxiv.pdf) - [code](https://github.com/filipluca/FasterX_and_mutation_size/)
+**Ruzicka, F.**, Vicoso, B. (2026). Is faster-X adaptation due to large-effect mutations? An empirical test of a new theory. *Genome Biology and Evolution* [PDF](/assets/RuzickaVicoso2026GBE.pdf) - [code](https://github.com/filipluca/FasterX_and_mutation_size/)
 
 Mackintosh, C., Connallon, T., **Ruzicka, F.** (2026). The evolution of context-specific dominance during selective sweeps. *bioRxiv* [PDF](/assets/Mackintoshetal2026bioRxiv.pdf)
 
