@@ -2,65 +2,90 @@
 layout: page
 ---
 
-I aim to understand why organisms have adapted to their environments in
-such remarkably diverse ways. Unfortunately, achieving this goal is
-difficult: most evolution has occurred in the past, and ongoing
-evolution often takes longer than a human lifetime to observe.
-Therefore, answers to very basic questions -- why do some organisms have
-sex? why do some outcross and others self-fertilise? why are some
-haploid and others diploid? does adaptation rely on pre-existing
-variation or new mutations? -- remain elusive. 
+A central goal of evolutionary biology is to understand the diversity of organismal adaptation, but achieving this goal is challenging. Most evolution has occurred in the past, and ongoing evolution often takes longer than a human lifetime to observe.
+As a result, fundamental questions remain elusive: Why do some organisms have sex? Why do some outcross and others self-fertilise? Why are some
+haploid and others diploid? Does adaptation rely on pre-existing
+variation or new mutations? Why is fitness variation maintained? Why does genetic variation vary between genomes and species?
 
-Fortunately, we have
-tools to overcome this: a century of mathematical models of evolution,
-allied with new "omic" datasets and experimental systems where we can
-manipulate and observe evolution. I use these tools to investigate
-principles of evolutionary adaptation.
+Fortunately, we have tools to overcome this: a century of mathematical models of evolution, allied with new genomic datasets and experimental systems that we can
+use to manipulate and understand evolution. I use these tools to address
+fundamental questions about evolutionary adaptation adaptation, such as:
 
 -----
 
-![Pic](/assets/Figuresfrompapers.png)
+### Why is there genetic variation?
 
-Here are some of my favourite topics:
+#### Fitness variation
 
-### Genetic constraints due to trade-offs
-Sexual dimorphism is a particularly dramatic form of adaptation, yet
-males and females share mostly the same genome. To better understand
-the genetic constraints on the evolution of sexual dimorphism, I have extensively
-studied sexually antagonistic variants (variants that have opposing
-effects on fitness between the sexes). We
-identified sexually antagonistic variants in the *Drosophila
-melanogaster* genome using a genome-wide association study ([Ruzicka et al.
-2019](/assets/Ruzickaetal2019PlosBiol.pdf)). We also developed polygenic tests of sexually antagonistic variation across a complete
-life-cycle, applying this new theory to large datasets of humans ([Ruzicka et
-al. 2022](/assets/Ruzickaetal2022PlosBiol.pdf)) and other species ([Ruzicka et al.
-2020](/assets/Ruzickaetal2020EvolLett.pdf)). More recently, we have considered the extent to which alleles subject to trade-offs contribute to evolutionary divergence ([Connallon et al. 2025](/assets/Connallonetal2025Evolution.pdf))
+Many organisms harbour extensive genetic variation for fitness, but the reasons are unclear (e.g. Charlesworth 2015, *PNAS*). One possibility is that recurrent deleterious mutations generate fitness variation. Another possibility is that fitness variation is actively maintained under balancing selection -- for example, due to heterozygote advantage, negative frequency-dependent selection, or various trade-offs between selective contexts. We have recently reviewed this century-long body of theory ([Ruzicka et al. 2025, Biological Reviews](/assets/Ruzickaetal2025BiolRev.pdf)).
 
-### Genetic constraints due to dominance
-Dominance occurs when variants are incompletely expressed in heterozygotes, yet we know little about the typical dominance of new adaptive mutations.
-A basic prediction is that adaptive mutations should be dominant, yet current inferences based on relatively faster rates of X-linked adaptation suggest the opposite.
-As a first step toward resolving this puzzle, we showed that
-existing patterns of X/autosome adaptation are potentially compatible with dominant
-adaptive mutations, provided such mutations have sufficiently large effects ([McDonough et al.
-2024](/assets/McDonoughetal2024PNAS.pdf)). Our
-recent work uses the ranking of mutations by the magnitudes of their
-effects on proteins to test the theoretical prediction that faster-X
-divergence becomes more likely for large-effect mutations ([Ruzicka & Vicoso 2026](/assets/RuzickaVicoso2026GBE.pdf)). We have also examined how readily genetic dominance can evolve during selective sweeps ([Mackintosh et al. 2026](/assets/Mackintoshetal2026bioRxiv.pdf)). 
+![Pic](/assets/Ruzickaetal2025Fig1.pdf)
 
-### The evolution of sex chromosomes
-Sex chromosomes provide a unique opportunity to study evolution because
-of their asymmetric transmission between the sexes. Using contrasts of X
-chromosomes and autosomes, we have examined sex differences in the fitness effects of deleterious
-mutations ([Ruzicka et al. 2021](/assets/Ruzickaetal2021Genetics.pdf)),
-the genomic distribution of sexually antagonistic variation ([Ruzicka
+One trade-off that can potentially generate balancing selection and maintain fitness variation is sexually antagonistic selection, in which selection is opposing between females and males. In *Drosophila melanogaster*, we performed the first genome-wide association study of sexually antagonistic genetic variation ([Ruzicka et al.
+2019](/assets/Ruzickaetal2019PlosBiol.pdf)). We then linked GWAS signals of sexually antagonistic variation with molecular polymorphism data from worldwide populations of *D. melanogaster* and its sister species *D. simulans*. We showed that sexually antagonistic selection indeed contributes to the long-term maintenance of fitness variation.
+
+![Pic](/assets/Ruzickaetal2019Fig4.pdf)
+
+Later, we identified polygenic signals of sexually antagonistic variation in humans ([Ruzicka et
+al. 2022](/assets/Ruzickaetal2022PlosBiol.pdf)). There, the links between signals of sexually antagonistic variation and long-term maintenance of polymorphism were much weaker, possibly due to differences in the effectiveness of selection between *Drosophila* and humans.
+
+#### Trait variation
+
+Sex differences in lifespan are a prominent form of within-species diversity. It has been hypothesised to occur because recessive deleterious mutations are expressed on the X chromosome in males but not in females. We modelled the extent of this "unguarded X effect" and parameterised our model with the relevant genetic parameters. We found that the contribution of the unguarded X to sexual dimorphism in lifespan should generally be much smaller than sexual dimorphism that is often estimated ([Connallon et al.
+2022](/assets/Connallonetal2022EvolLett.pdf)).
+
+![Pic](/assets/Connallonetal2022Fig2.pdf)
+
+#### Molecular variation
+
+The causes of molecular variation -- both within genomes and between species -- are also incompletely understood. For example, the weak relationship between census population size and molecular genetic diversity across species has been termed "Lewontin's paradox" (e.g. Buffalo 2021, *eLife*).  One component of between-species variation is differences between X chromosomes and autosomes. In *D. melanogaster*, we have shown that purifying selection is typically stronger on the X chromosome than autosomes, as reflected in elevated additive genetic variance for male fitness, and lower levels of functional polymorphism, on the X relative to autosomes ([Ruzicka et al.
+2021](/assets/Ruzickaetal2021Genetics.pdf)). This is consistent with predictions based on the partial recessivity of deleterious mutations.
+
+![Pic](/assets/Ruzickaetal2021Fig5.pdf)
+
+### What is the genetic basis of adaptation? 
+ 
+Much genetic variation in natural populations is neutral or nearly-neutral, yet questions about adaptation require us to identify and characterise *adaptive* variation. With this in mind, I have particularly focussed on the following topics.
+ 
+#### Adaptive trade-offs
+
+Genetic variants that are adaptive in one sex but detrimental in the other -- sexually antagonistic variants -- are a form of adaptive variation. A major obstacle in identifying such variation is that males and females are part of the same population, which restrict signals of genetic divergence between them ([Ruzicka et al.
+2020](/assets/Ruzickaetal2020EvolLett.pdf)). In *Drosophila melanogaster*, we overcame this obstacle by measuring sex-specific fitness among ~200 "hemiclone" lines. Combining these data with whole-genome sequencing, we identified genome-wide sexually antagonistic variants ([Ruzicka et al.
+2019](/assets/Ruzickaetal2019PlosBiol.pdf)).  
+
+![Pic](/assets/Ruzickaetal2019Fig1.pdf)
+
+In some species, like humans, experimental manipulation is not feasible, and identifying sexually antagonistic variants as above is not possible. To remedy this -- and instead of using single-locus approaches that are invariably under-powered ([Ruzicka et al.
+2020](/assets/Ruzickaetal2020EvolLett.pdf)) -- we developed new polygenic tests of sexually antagonistic selection. We developed new theory for detecting allele frequency differences between females and males. Compared to our null models, we uncovered clear polygenic signals of sexually antagonistic selection in a quarter-million humans from the UK Biobank ([Ruzicka et
+al. 2022](/assets/Ruzickaetal2022PlosBiol.pdf)), as well as flycatcher and pipefish datasets ([Ruzicka et al.
+2020](/assets/Ruzickaetal2020EvolLett.pdf)). 
+
+![Pic](/assets/Ruzickaetal2022Fig1.pdf)
+![Pic](/assets/Ruzickaetal2022Fig2.pdf)
+
+Our approach further allowed us to test a long-standing hypothesis that sexually antagonistic variation is enriched on the X chromosome ([Ruzicka
 and Connallon 2020](/assets/RuzickaConnallon2020ProcB.pdf), [Ruzicka
-and Connallon 2022](/assets/RuzickaConnallon2022ProcB.pdf)) and the
-genomic distribution of inversions that capture locally-adaptive alleles
-([Connallon et al. 2018](/assets/Connallonetal2018PhilTrans.pdf)).
+and Connallon 2022](/assets/RuzickaConnallon2022ProcB.pdf)). In contrast to this long-standing hypothesis, we detected no such enrichment on the X chromosome.
 
-### The forces that maintain fitness variation
-An unresolved question is the extent to which balancing selection maintains genetic variation for fitness. Our work on sexually antagonistic variation in *Drosophila* ([Ruzicka et al.
-2019](/assets/Ruzickaetal2019PlosBiol.pdf)) and humans ([Ruzicka et
-al. 2022](/assets/Ruzickaetal2022PlosBiol.pdf)) linked inferences of sexually antagonistic selection to the maintenance of polymorphism. Recently, we have reviewed a century's worth of theories of balancing selection—due to heterozygote advantage, negative frequency-dependence, and various forms of trade-off between selective contexts ([Ruzicka et
-al. 2025](/assets/Ruzickaetal2025BiolRev.pdf)).  
+![Pic](/assets/RuzickaConnallon2020Fig1.pdf)
+![Pic](/assets/RuzickaConnallon2022Fig2.pdf)
+
+We have also asked whether alleles subject to trade-offs (such as sexually antagonistic variants) should contribute to adaptive divergence between species ([Connallon et al. 2025](/assets/Connallonetal2025Evolution.pdf)). We have shown that -- although trade-offs should be common among new mutations -- they should contribute much less to adaptive divergence. 
+
+#### Genetic dominance 
+
+Genetic dominance not only influences genetic variation, but also adaptive responses, and major evolutionary transitions like sex, ploidy and mating systems. Yet, it is unclear whether adaptive mutations are dominant or recessive. 
+
+On one hand, adaptation is nearly always faster on sex chromosomes than autosomes, implying that adaptive mutations are recessive (because recessive mutations should respond more readily to selection when X-linked than autosomal). On the other hand, long-standing theories of dominance predict that adaptive mutations should be dominant. 
+
+![Pic](/assets/McDonoughetal2024Fig1.pdf)
+![Pic](/assets/McDonoughetal2024Fig2.pdf)
+
+As a first step toward resolving this puzzle, we developed a new theory of sex chromosome evolution that is compatible with theories of dominance, provided such mutations have sufficiently large effects ([McDonough et al.
+2024](/assets/McDonoughetal2024PNAS.pdf)). Our theory, which is based on Fisher’s geometric model, proposes that large-effect mutations are often overdominant on an autosome -- and therefore selected against in homozygotes -- but have a net positive effect on the X chromosome, which favours their fixation. Our recent work uses the ranking of mutations by the magnitudes of their effects on proteins to test the theoretical prediction that faster-X
+adaptive divergence becomes more likely for large-effect mutations ([Ruzicka & Vicoso 2026](/assets/RuzickaVicoso2026GBE.pdf)). 
+
+![Pic](/assets/RuzickaVicoso2026Fig4.pdf)
+
+  
 
