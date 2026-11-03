@@ -82,7 +82,7 @@ We have also asked whether alleles subject to trade-offs (such as sexually antag
 
 Genetic dominance influences adaptive responses to selection, and major evolutionary transitions like sex, ploidy and mating systems. 
 
-![Pic](/assets/DominanceFig.pdf)
+![Pic](/assets/DominanceFig.png)
 
 Yet, it is unclear whether adaptive mutations are dominant or recessive. On one hand, adaptation is nearly always faster on sex chromosomes than autosomes, implying that adaptive mutations are recessive (because recessive mutations should respond more readily to selection when X-linked than autosomal). 
 
