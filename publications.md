@@ -6,11 +6,11 @@ For the most up-to-date record of my publications, please visit my [google schol
 
 -----
 
-**Ruzicka, F.**, Vicoso, B. (2026). Is faster-X adaptation due to large-effect mutations? An empirical test of a new theory. *Genome Biology and Evolution* [PDF](/assets/RuzickaVicoso2026GBE.pdf) - [code](https://github.com/filipluca/FasterX_and_mutation_size/)
+Mackintosh, C., Connallon, T., **Ruzicka, F.**. The evolution of context-specific dominance during selective sweeps. (2026) *bioRxiv* [PDF](/assets/Mackintoshetal2026bioRxiv.pdf)
 
-Mackintosh, C., Connallon, T., **Ruzicka, F.** (2026). The evolution of context-specific dominance during selective sweeps. *bioRxiv* [PDF](/assets/Mackintoshetal2026bioRxiv.pdf)
+**Ruzicka, F.**, Vicoso, B. Is faster-X adaptation due to large-effect mutations? An empirical test of a new theory. (2026) *Genome Biology and Evolution* [PDF](/assets/RuzickaVicoso2026GBE.pdf) - [code](https://github.com/filipluca/FasterX_and_mutation_size/)
 
-**Ruzicka, F.** (2026). Reverse genetics of sexual antagonism. *Nature Ecology & Evolution (News & Views)* 10:1035–1036 [PDF](/assets/Ruzicka2026NEE.pdf)  
+**Ruzicka, F.**. Reverse genetics of sexual antagonism. (2026) *Nature Ecology & Evolution (News & Views)* 10:1035–1036 [PDF](/assets/Ruzicka2026NEE.pdf)  
 
 **Ruzicka, F.**\*, Zwoinska, M.K.\*, Goedert, D., Kokko, H., Li Richter X-Y., Moodie, I.R., Nilén, S., Olito, C., Svensson, E.I., Czuppon, P., Connallon, T. A century of theories of balancing selection. (2025) *Biological Reviews* 101(2):804-825 [PDF](/assets/Ruzickaetal2025BiolRev.pdf)
 

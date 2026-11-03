@@ -2,14 +2,15 @@
 layout: page
 ---
 
-A central goal of evolutionary biology is to understand the diversity of organismal adaptation, but achieving this is challenging: most evolution has occurred in the past, and ongoing evolution often takes longer than a human lifetime to observe.
-As a result, answers to fundamental questions remain elusive. Why do some organisms have sex? Why do some outcross and others self-fertilise? Why are some
+A central goal of evolutionary biology is to understand the diversity of organismal adaptation. Achieving this, however, is challenging: most evolution has occurred in the past, and ongoing evolution often takes longer than a human lifetime to observe.
+
+Therefore, answers to fundamental questions remain elusive. Why do some organisms have sex? Why do some outcross and others self-fertilise? Why are some
 haploid and others diploid? Does adaptation rely on pre-existing
 variation or new mutations? Why is fitness variation maintained? Why does genetic variation vary between genomes and species?
 
 Fortunately, we have tools to overcome this: a century of mathematical models of evolution, allied with new genomic datasets and experimental systems to manipulate and understand evolution. 
 
-I use these tools to address a variety of questions about evolutionary adaptation, including...  
+I use these tools to address a variety of questions about evolutionary adaptation, such as:
 
 -----
 
